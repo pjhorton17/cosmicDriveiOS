@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "415cff0178f0a98e610c6883d0f6aab4e258a4864c7b71e86b6b0445e8223b00"
+build_start_time: [1685819377, 535945000]
+build_end_time: [1685819396, 933452000]
+inputs:
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/AchievementsViewController.swift"
+  : [1614089481, 0]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/AppDelegate.swift"
+  : [1614089043, 173201388]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/DetailsViewController.swift"
+  : [1685817351, 663593309]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/HistoryViewController.swift"
+  : [1634176818, 475329281]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/HowManyPlayersButton.swift"
+  : [1602124985, 0]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/HowManyPlayersViewController.swift"
+  : [1685141883, 0]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/LocationViewController.swift"
+  : [1609915853, 0]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/MainMenuViewController.swift"
+  : [1685216747, 569297606]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/SceneDelegate.swift"
+  : [1614089043, 187651983]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/ScoreButton.swift"
+  : [1602124985, 488156409]
+  ? "/Users/patrickhorton/Documents/Documents - Patrick\u2019s MacBook Pro/Patrick/Programming/Projects/Cosmic Drive/CosmicDrive/ScoreCardViewController.swift"
+  : [1685817351, 0]

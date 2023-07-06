@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>F1625040-4436-4636-BC4B-418D879C712C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1625040-4436-4636-BC4B-418D879C712C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CosmicDrive project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CosmicDrive</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive CosmicDrive</string>
+			<key>timeStartedRecording</key>
+			<real>707512176.38813496</real>
+			<key>timeStoppedRecording</key>
+			<real>707512196.94694197</real>
+			<key>title</key>
+			<string>Archive CosmicDrive</string>
+			<key>uniqueIdentifier</key>
+			<string>F1625040-4436-4636-BC4B-418D879C712C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

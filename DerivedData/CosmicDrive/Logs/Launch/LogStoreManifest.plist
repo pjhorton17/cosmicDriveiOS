@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C38734D6-A8B7-4EDD-981F-9FFC00E5362A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2B5704A1-EA47-4792-A220-C719EAE97057</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CosmicDrive-2023.06.03_12-07-48--0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CosmicDrive project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CosmicDrive</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CosmicDrive</string>
+			<key>timeStartedRecording</key>
+			<real>707512068.416327</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CosmicDrive</string>
+			<key>uniqueIdentifier</key>
+			<string>C38734D6-A8B7-4EDD-981F-9FFC00E5362A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
